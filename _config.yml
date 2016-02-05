@@ -1,0 +1,28 @@
+name: kellyknaga
+favicon: null
+layout_spectrum: 0.04629811178892851
+typography_spectrum: 0.1824412934947759
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+  brandStrength: 0.6308905868791044
+  lightness: 0.3018710217438638
+  saturation: 0.14818458817899227
+  rhythmicContrast: 0.7426052773371339
+purpose: []
